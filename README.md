@@ -13,9 +13,11 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username=alsiam">
+  <h3>
   Hotstar Website Clone
 Technologies used: HTML, CSS, JavaScript
 
 Developed a responsive clone of the Hotstar website, replicating its design and layout using HTML, CSS, and JavaScript.
 
 Gained web development skills through YouTube tutorials and DevTown community, earning certificates from Google Developer Students Club, Microsoft Learn Student Ambassador, Amazon Community, and DevTown.
+</h3>
